@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,300&display=swap');
+
+* {
+  font-family: 'Source Code Pro', monospace;
+}
+
+body {
+  background-color: #e4c0ff;
+  color: white;
+  padding: 50px;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+button {
+  background-color: #fffce5;
+  color: black;
+  width: 100px;
+  position: absolute;
+  font-weight: bolder;
+  border-color: white;
+  
+}
+
+.hidden {
+  display:none;
+}
+
+#move {
+  left: 200px;
+}
+
+#change:hover {
+  cursor:pointer;
+}
