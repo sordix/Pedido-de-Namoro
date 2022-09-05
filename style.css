@@ -2,6 +2,8 @@
 
 * {
   font-family: 'Source Code Pro', monospace;
+  align-items: center;
+  justify-content: center;
 }
 
 body {
