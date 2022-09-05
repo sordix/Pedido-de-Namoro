@@ -2,23 +2,17 @@
 
 * {
   font-family: 'Source Code Pro', monospace;
-  align-items: center;
-  justify-content: center;
 }
 
 body {
   background-color: #e4c0ff;
   color: white;
   padding: 50px;
-  align-items: center;
-  justify-content: center;
 }
 
 p {
   font-size: 30px;
   font-weight: bold;
-  align-items: center;
-  justify-content: center;
 }
 
 button {
@@ -28,8 +22,6 @@ button {
   position: absolute;
   font-weight: bolder;
   border-color: white;
-  align-items: center;
-  justify-content: center;
   
 }
 
